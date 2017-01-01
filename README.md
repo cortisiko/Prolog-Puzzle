@@ -28,3 +28,4 @@ And the rest we can get by elimination. Summing up:
 •	N spotted a frisbee on Wednesday.
 •	K spotted a clothesline on Thursday.
 • B spotted a balloon on Friday.
+  
